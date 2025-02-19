@@ -1,0 +1,6 @@
+marca,modelo,localizacion,ip,puertos,precio,anho_compra
+CISCO,ASR 1009-X,MA,198.51.100.2,6,8000,2017
+Juniper,MX960,MA,198.51.100.3,20,12000,2018
+Juniper,MX960,SE,203.0.113.9,40,19000,2017
+Juniper,MX40,SE,203.0.113.10,20,10400,2016
+Huawei,AR2200,SE,203.0.113.11,48,23000,2017
